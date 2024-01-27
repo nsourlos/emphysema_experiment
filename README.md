@@ -1,7 +1,6 @@
 # Emphysema experiment files
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)]( https://github.com/nsourlos/emphysema__experiment)
 
 
@@ -23,6 +22,3 @@ These folders are not provided due to privacy regulations.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
- 
-## License
-[MIT License](LICENSE)
